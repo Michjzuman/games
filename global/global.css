@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
+
+:root {
+    --red: rgb(174, 45, 45);
+    --darkRed: rgb(141, 46, 46);
+    --bg: rgb(64, 80, 104);
+}
+
+body {
+    background-color: var(--bg);
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+button {
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    cursor: pointer;
+}
+
+div.content {
+    position: relative;
+}

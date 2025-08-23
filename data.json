@@ -1,0 +1,78 @@
+{
+    "games": [
+        {
+            "name": "BLUE RUNNER",
+            "slogan": "Jump and run",
+            "page": "bluerunner",
+
+            "multiplayer": false,
+            "singleplayer": true,
+            "mobile": false,
+
+            "bg": "color(srgb 0.2619 0.5936 0.845)",
+            "playButton": "color(srgb 0.1369 0.4774 0.74)",
+
+            "effect": "<div class=\"bluerunnereffect\"><div><img src=\"/images/bluerunner.png\"><img src=\"/images/bluerunner.png\"></div></div>"
+        },
+        {
+            "name": "SWING",
+            "slogan": "WARNING: It will make you cry",
+            "page": "swing",
+
+            "multiplayer": false,
+            "singleplayer": true,
+            "mobile": true,
+
+            "info": {
+                "game-engine": "turbowarp",
+                "coding-language": "scratch"
+            },
+            
+            "downloads": [
+                {
+                    "os": "Mac",
+                    "file": "/play/goldminer/downloads/SWING.zip"
+                },
+                {
+                    "os": "Windows",
+                    "file": "/play/goldminer/downloads/SWING.exe.zip"
+                }
+            ],
+
+            "bg": "color(srgb 0.7012 0.3841 0.3839)",
+            "playButton": "color(display-p3 0.63 0.303 0.293)",
+
+            "effect": ""
+        },
+        {
+            "name": "GOLD MINER",
+            "slogan": "Update coming soon",
+            "page": "goldminer",
+
+            "multiplayer": false,
+            "singleplayer": true,
+            "mobile": true,
+
+            "info": {
+                "game-engine": "scratch",
+                "coding-language": "scratch"
+            },
+            
+            "downloads": [
+                {
+                    "os": "Mac",
+                    "file": "/play/goldminer/downloads/GOLD%20MINER.zip"
+                },
+                {
+                    "os": "Windows",
+                    "file": "/play/goldminer/downloads/GOLD%20MINER.exe.zip"
+                }
+            ],
+
+            "bg": "color(srgb 0.745 0.745 0.2607)",
+            "playButton": "color(srgb 0.625 0.625 0.0969)",
+
+            "effect": ""
+        }
+    ]
+}
